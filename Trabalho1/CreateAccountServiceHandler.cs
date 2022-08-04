@@ -2,7 +2,7 @@
 
 namespace Trabalho1
 {
-    internal class AccountServiceHandler
+    internal class CreateAccountServiceHandler
     {
 
         public static int SetCategory(string s)
