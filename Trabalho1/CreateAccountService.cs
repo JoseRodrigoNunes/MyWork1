@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Trabalho1
 {
-    class CreateAccountService : AccountService
+    class CreateAccountService : CreateAccountServiceHandler
     {
         public static Entity GetAccount()
         {
