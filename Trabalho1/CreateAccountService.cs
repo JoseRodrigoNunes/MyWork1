@@ -9,19 +9,6 @@ namespace Trabalho1
 {
     class CreateAccountService
     {
-        /*
-        (X)2. Você deverá questionar o usuário para pelo menos outros 4 campos de tipos diferentes(Decimal, Inteiro,
-        Lookup, Option) e recuperar os dados digitados.Após isso crie a conta no Dynamics CE 365 Sales com as
-        informações recuperadas.
-
-        Desenvolver pensando nas melhores práticas de programação em C#.
-        1 - Renomiar as variaveis
-        2 - renomiar as classes
-        3 - Refatorar o codigo para melhor legibilidade e performance (criar pastas seria bom para uma melhor organização do projeto)
-        4 - implementar tratamento de erros
-        5 - me certificar de que tudos está funcionando
-        
-        */
         public static Entity GetAccount()
         {
             Entity account = new Entity("account");
