@@ -36,8 +36,8 @@ C:\Users\Jose\source\repos\MyWork1\Trabalho1\bin\Debug\System.Text.Encodings.Web
 C:\Users\Jose\source\repos\MyWork1\Trabalho1\bin\Debug\System.Text.Json.xml
 C:\Users\Jose\source\repos\MyWork1\Trabalho1\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\Jose\source\repos\MyWork1\Trabalho1\bin\Debug\System.ValueTuple.xml
-C:\Users\Jose\source\repos\MyWork1\Trabalho1\obj\Debug\Trabalho1.csproj.AssemblyReference.cache
 C:\Users\Jose\source\repos\MyWork1\Trabalho1\obj\Debug\Trabalho1.csproj.CoreCompileInputs.cache
 C:\Users\Jose\source\repos\MyWork1\Trabalho1\obj\Debug\Trabalho1.csproj.CopyComplete
 C:\Users\Jose\source\repos\MyWork1\Trabalho1\obj\Debug\Trabalho1.exe
 C:\Users\Jose\source\repos\MyWork1\Trabalho1\obj\Debug\Trabalho1.pdb
+C:\Users\Jose\source\repos\MyWork1\Trabalho1\obj\Debug\Trabalho1.csprojAssemblyReference.cache

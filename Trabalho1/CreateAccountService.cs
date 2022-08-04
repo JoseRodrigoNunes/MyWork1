@@ -34,7 +34,6 @@ namespace Trabalho1
             // id: 79ae8582-84bb-ea11-a812-000d3a8b3ec6
             Guid gContactId = Guid.Parse(Console.ReadLine());
             account["primarycontactid"] = new EntityReference("contact", gContactId);
-            
             return account;
         }
 
